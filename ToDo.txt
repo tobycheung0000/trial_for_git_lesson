@@ -1,0 +1,13 @@
+Just try to put sth in the file. 
+
+I can use nano, but Dana cannot, she now change to use vim. Good luck !
+
+
+Conversion functions needed:
+
+- Dollars to Cents
+- Gallons to Liters
+- Hours to Minutes
+
+
+
